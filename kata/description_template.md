@@ -4,7 +4,7 @@ Software Craftsmanship is more than coding. Let's learn more about each other an
 
 Please (if possible) bring your laptop and a working development environment with a **project with a failing test**. You can find some bootstrap projects [here](https://github.com/swkBerlin/kata-bootstraps).
 
-[We strive to provide a safe environment for everyone.](https://github.com/swkBerlin/values/blob/master/safe_environment.md)
+[We strive to provide a safe environment for everyone.](https://github.com/swkBerlin/values/blob/main/safe_environment.md)
 
 ## Schedule
 
