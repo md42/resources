@@ -9,6 +9,6 @@
 - Frame Software Craftsmanship
   1. Ask who's with us for the first time
   - Explain (or let someone explain) what Craftsmanship is about
-- Mention our [values](https://github.com/swkBerlin/resources/blob/master/safe_environment.md) and tell people to approach the organizers (who wear a name tag with a 💝) in case they feel uncomfortable.
+- Mention our [values](https://github.com/swkBerlin/resources/blob/main/safe_environment.md) and tell people to approach the organizers (who wear a name tag with a 💝) in case they feel uncomfortable.
 - Advertise the next events that are coming up (e.g. the next monthly meeting or a special event)
 - **BONUS**: Get a discussion going about something passionate to you or craftspeople (e.g. diversity, professionalism, respect, ethics, you name it)
