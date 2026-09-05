@@ -4,7 +4,7 @@ Join us for a [Lean Coffee](http://agilecoffee.com/leancoffee/) - a roundtable t
 
 Bring your ideas and we’ll take care of the rest!
 
-[We strive to provide a safe environment for everyone.](https://github.com/swkBerlin/values/blob/master/safe_environment.md)
+[We strive to provide a safe environment for everyone.](https://github.com/swkBerlin/values/blob/main/safe_environment.md)
 
 Craftsmanship values sharing knowledge. It is a great opportunity to network while learning from other companies' experiences.
 
